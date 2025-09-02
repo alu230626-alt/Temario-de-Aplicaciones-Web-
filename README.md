@@ -105,6 +105,9 @@ Las API REST proporcionan una forma ligera de construir API web y se utilizan ha
 Las API REST proporcionan una forma ligera de construir API web y se utilizan habitualmente para facilitar el intercambio de datos entre aplicaciones, servicios web y bases de datos, y para conectar componentes en arquitecturas de microservicios.  
 
 2.- Almacenamiento en Servidor  
+<img width="306" height="162" alt="image" src="https://github.com/user-attachments/assets/ff06f51c-9b8d-4017-99ce-778427003ae2" />  
+
+
 
 2.1 Tipos de servidores  
 Los tipos de servidores varían según su función y la forma en que se alojan o utilizan, incluyendo los servidores web para sitios web, servidores de correo para email, servidores de bases de datos para almacenar datos, servidores proxy como intermediarios, y los servidores virtuales y en la nube que ofrecen flexibilidad y escalabilidad.  
