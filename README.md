@@ -4,7 +4,8 @@ Accede a GitHub y crea un repositorio llamado Temario de Aplicaciones Web con el
 Propósito de Aprendizaje 1: Comprender los fundamentos del desarrollo de aplicaciones web.
 
 1.-Introducción al desarrollo web
-<img width="313" height="167" alt="image" src="https://github.com/user-attachments/assets/f7ef46c2-765e-465a-90fb-4e1c49988106" />
+<img width="313" height="167" alt="image" src="https://github.com/user-attachments/assets/f7ef46c2-765e-465a-90fb-4e1c49988106" /> 
+
 
 
 1.1 Historia y evolución del desarrollo web  
@@ -13,6 +14,9 @@ El desarrollo web nació con Tim Berners-Lee en 1989, cuando creó la World Wide
 Las aplicaciones web se clasifican en estáticas (contenido fijo), dinámicas (contenido cambiante y personalizado), Single Page Applications (SPA) (cargan una sola página con contenido dinámico) y Progressive Web Apps (PWA) (combinan lo mejor de la web y las apps nativas, con funciones como el uso sin conexión).  
 
 2.-Arquitectura de aplicaciones web  
+<img width="319" height="161" alt="image" src="https://github.com/user-attachments/assets/f056c6cd-e06a-4ff7-b0e7-cc21f9e99134" />  
+
+
 
 2.1 La arquitectura cliente-servidor es un modelo informático donde un programa cliente solicita servicios o recursos a un programa servidor, que los provee. El cliente interactúa con el usuario, mientras que el servidor gestiona y centraliza los recursos y el procesamiento de datos.  
 2.2 Arquitectura de tres capas (presentación, lógica, datos)  
@@ -21,6 +25,10 @@ La arquitectura de tres capas es un patrón de diseño de software que organiza 
 REST es un estilo arquitectónico para servicios web que utiliza HTTP para interactuar con recursos, y el diseño API-first es una filosofía de desarrollo donde las API se diseñan y se documentan exhaustivamente antes de escribir el código para los servicios subyacentes.  
 
 3. -Lenguajes y tecnologías fundamentales
+4. <img width="320" height="158" alt="image" src="https://github.com/user-attachments/assets/dfdd7ac5-579a-4d32-8c95-8cd9cdfcceb2" />
+   
+   
+
      
 3.1 HTML, CSS, JavaScript, PHP, MySQL  
 HTML (HyperText Markup Language):    
@@ -36,6 +44,9 @@ MySQL:
 Es un sistema de gestión de bases de datos relacionales que permite almacenar, organizar y recuperar grandes cantidades de datos de manera eficiente.  
 
 4.-Control de versiones  
+<img width="182" height="179" alt="image" src="https://github.com/user-attachments/assets/bb486497-28c8-45f5-a3a5-0b2195d60787" />  
+
+
 
 4.1 Git y GitHub    
 Git es un sistema de control de versiones, una herramienta que permite rastrear cambios y gestionar el historial de un proyecto, funcionando de manera local en tu computadora. Por otro lado, GitHub es una plataforma web que utiliza Git para ofrecer un servicio de alojamiento de repositorios en la nube.  
@@ -61,6 +72,9 @@ El manejo de peticiones y respuestas HTTP implica que un cliente (como un navega
 La conexión a bases de datos (MySQL, PostgreSQL, MongoDB) es el proceso de establecer una comunicación entre un programa o cliente y un servidor de base de datos (como MySQL, PostgreSQL o MongoDB) para acceder, leer o escribir datos.  
 
 3.-Bases de datos  
+<img width="287" height="159" alt="image" src="https://github.com/user-attachments/assets/57922713-646d-4f91-9d3d-d9dbed57f027" />  
+
+
 
 3.1 Modelado de datos y relaciones  
 El modelado de datos es el proceso de crear una representación visual de los datos y sus conexiones, definiendo cómo se estructuran, almacenan y acceden a ellos para garantizar la coherencia y facilitar su análisis.  
@@ -77,6 +91,9 @@ La validación en el lado del cliente es una verificación inicial y una caracte
 La autenticación verifica que un usuario sea quien dice ser, mientras que la autorización determina qué acciones o recursos ese usuario puede acceder.   
 
 Propósito de Aprendizaje 3: Implementar y desplegar una aplicación web funcional  
+<img width="300" height="169" alt="image" src="https://github.com/user-attachments/assets/19837022-6a30-443a-a164-dd06d7e1b4e8" />  
+
+
 
 1. -Integración de frontend y backend  
 
